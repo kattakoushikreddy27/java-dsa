@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# VS Code local settings
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+bin/
+out/
+target/
